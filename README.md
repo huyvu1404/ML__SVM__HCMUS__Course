@@ -19,5 +19,5 @@ Mỗi bạn trong nhóm sẽ làm theo thứ tự (làm vậy để tránh nhầ
 - Sau khi cả nhóm thống nhất lấy phiên bản cuối cùng rồi thì Vũ Quang Huy hoặc Khải Huy sẽ lấy phiên bản đó update lên main branch. Và phiên bản này sẽ là phiên bản dùng để submit cho deadline Week 6 ML .
 
 
-Như vậy người làm đầu tiên (bản thử nghiệm đầu tiên) sẽ là phiên bản của Vũ Quang Huy (Nhóm trưởng), dĩ nhiên là nó không hoàn hảo. Sau đó sẽ lần lượt qua tay các thành viên khác. Nếu muốn sửa đổi hay cập nhật gì thì để lại lời nhắn trên group FB trước để cả nhóm biết .
+Như vậy người làm đầu tiên (bản thử nghiệm đầu tiên) sẽ là phiên bản của Vũ Quang Huy (Nhóm trưởng), dĩ nhiên là nó không hoàn hảo. Sau đó sẽ lần lượt qua tay các thành viên khác theo thứ tự như trên.Tới lượt người nào thì người đi trước sẽ nhắn trên FB để người đi sau biết tới lượt mình mà lên đó lấy code về làm. Nếu muốn sửa đổi hay cập nhật gì thì để lại lời nhắn trên group FB trước để cả nhóm biết .
 
