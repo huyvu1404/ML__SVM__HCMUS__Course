@@ -16,5 +16,5 @@ Mỗi bạn trong nhóm sẽ làm theo thứ tự (làm vậy để tránh nhầ
 
 - Cứ như thế sẽ thành một vòng tròn, có gì thắc mắc thì nhắn tin trên group FB https://www.facebook.com/messages/t/6368825783156436
 
-Như vậy người làm đầu tiên (bản thử nghiệm đầu tiên) sẽ là phiên bản của Vũ Quang Huy (Nhóm trưởng) sau đó sẽ lần lượt qua tay các thành viên khác. Nếu muốn sửa đổi hay cập nhật gì thì để lại lời nhắn trên group FB trước để cả nhóm biết .
+Như vậy người làm đầu tiên (bản thử nghiệm đầu tiên) sẽ là phiên bản của Vũ Quang Huy (Nhóm trưởng), dĩ nhiên là nó không hoàn hảo. Sau đó sẽ lần lượt qua tay các thành viên khác. Nếu muốn sửa đổi hay cập nhật gì thì để lại lời nhắn trên group FB trước để cả nhóm biết .
 
